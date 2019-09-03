@@ -1,0 +1,22 @@
+body{
+  background-color:whitesmoke;
+}
+h1{
+  font-family: 'Alfa Slab One', cursive;  
+}
+.nav2{
+ color: black;
+}
+a{
+  color: black;
+}
+#img{
+  border-radius: 80%;
+}
+#img1{
+  float: left;
+}
+.carousel-inner img {
+  width: 100%;
+  height: 100%;
+}
